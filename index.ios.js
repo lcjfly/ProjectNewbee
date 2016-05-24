@@ -19,7 +19,7 @@ class ProjectNewbee extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Hello World by auto-update!
+          YO!\n
           Version { ReactNativeAutoUpdater.jsCodeVersion() }
         </Text>
         <Text style={styles.instructions}>

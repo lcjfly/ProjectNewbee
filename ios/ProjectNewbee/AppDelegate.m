@@ -13,7 +13,7 @@
 
 #import "ReactNativeAutoUpdater.h"
 
-#define JS_CODE_METADATA_URL @"http://192.168.1.201:3000/update.json"
+#define JS_CODE_METADATA_URL @"http://192.168.1.201:3000/bundles/getLatestVesion"
 
 @interface AppDelegate() <ReactNativeAutoUpdaterDelegate>
 
@@ -55,7 +55,7 @@
   [updater initializeWithUpdateMetadataUrl:[NSURL URLWithString:JS_CODE_METADATA_URL]
                      defaultJSCodeLocation:defaultJSCodeLocation
                defaultMetadataFileLocation:defaultMetadataFileLocation ];
-  [updater setHostnameForRelativeDownloadURLs:@"http://192.168.1.201:4000"];
+  [updater setHostnameForRelativeDownloadURLs:@"http://192.168.1.201:3000"];
   [updater checkUpdate];
   
   NSURL* latestJSCodeLocation = [updater latestJSCodeLocation];
