@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "817B955639473B98E42C80302977E8F92A98ACB7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "817B955639473B98E42C80302977E8F92A98ACB7" : 0,
+    "DCB93D8992DEF9CD3EEC42B1E85FF5D652C3546C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82731A3D-8176-4691-996F-BE5CA0B748F9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "817B955639473B98E42C80302977E8F92A98ACB7" : "ProjectNewbee\/",
+    "DCB93D8992DEF9CD3EEC42B1E85FF5D652C3546C" : "ReactNative\/react-native-auto-updater\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ProjectNewbee",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/ProjectNewbee.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lcjfly\/ProjectNewbee",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "817B955639473B98E42C80302977E8F92A98ACB7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aerofs\/react-native-auto-updater",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCB93D8992DEF9CD3EEC42B1E85FF5D652C3546C"
+    }
+  ]
+}
