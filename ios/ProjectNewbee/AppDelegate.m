@@ -38,7 +38,7 @@
   self.window.rootViewController = rootViewController;
   [self.window makeKeyAndVisible];
   return YES;
-   */
+  */
   
   // OPTION 2 remote dynamic update
   // defaultJSCodeLocation is needed at least for the first startup
